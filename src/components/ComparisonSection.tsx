@@ -40,16 +40,16 @@ const languages = [
     cons: ["Overhead do GC", "Menor controle de memória"]
   },
   {
-    name: "Java",
-    color: "red-500",
+    name: "Elixir",
+    color: "purple-500",
     scores: {
-      safety: 8,
+      safety: 7,
       performance: 6,
-      concurrency: 6,
+      concurrency: 10,
       learning: 8
     },
-    pros: ["JVM madura", "Grande ecossistema", "Relativamente seguro"],
-    cons: ["Overhead significativo", "Threads pesadas", "GC pauses"]
+    pros: ["Tolerância a falhas (supervisão)", "Concorrência escalável (Actors/OTP)", "Imutabilidade de dados"],
+    cons: ["Curva de aprendizado (paradigma funcional/OTP)", "Depuração distribuída complexa", "Performance em single-thread"]
   }
 ];
 
