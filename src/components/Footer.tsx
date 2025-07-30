@@ -8,10 +8,10 @@ const Footer = () => {
         <div className="text-center text-muted-foreground">
           <p className="text-lg mb-2">
             Site desenvolvido para demonstrar as vantagens da programação multithreading em 
-            <span className="rust-gradient-text font-semibold"> Rust</span>
+            <span className="rust-gradient-text font-semibold"> Rust</span> para a disciplina de Conceitos de Linguagem de Programação da UFPEL
           </p>
           <p className="text-sm">
-            Projeto acadêmico • 2024 • Construído com React, TypeScript e Tailwind CSS
+            Projeto acadêmico • 2025 • Construído com React, TypeScript e Tailwind CSS
           </p>
         </div>
       </div>
