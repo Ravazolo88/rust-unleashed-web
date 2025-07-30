@@ -3,7 +3,6 @@ import WhyRustSection from "@/components/WhyRustSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import SafetySection from "@/components/SafetySection";
 import ComparisonSection from "@/components/ComparisonSection";
-import CallToActionSection from "@/components/CallToActionSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -14,7 +13,6 @@ const Index = () => {
       <FeaturesSection />
       <SafetySection />
       <ComparisonSection />
-      <CallToActionSection />
       <Footer />
     </div>
   );
