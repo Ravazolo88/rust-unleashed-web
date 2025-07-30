@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				rust: {
+					orange: 'hsl(var(--rust-orange))',
+					'orange-light': 'hsl(var(--rust-orange-light))',
+					'orange-dark': 'hsl(var(--rust-orange-dark))',
+					brown: 'hsl(var(--rust-brown))'
+				},
+				code: {
+					bg: 'hsl(var(--code-bg))',
+					text: 'hsl(var(--code-text))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
