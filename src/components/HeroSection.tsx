@@ -38,7 +38,7 @@ const HeroSection = () => {
             </div>
             <div className="flex items-center justify-center space-x-3">
               <Shield className="h-8 w-8 text-white/90" />
-              <span className="text-lg font-medium">Segurança Em Tempo de CO</span>
+              <span className="text-lg font-medium">Garantias de Segurança </span>
             </div>
             <div className="flex items-center justify-center space-x-3">
               <Cpu className="h-8 w-8 text-white/90" />
